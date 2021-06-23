@@ -11,3 +11,10 @@ h1 {
     display: block;
     width: 510px;
 }
+
+table {
+	display: block;
+	margin: auto;
+	margin-bottom: 20px;
+	width: 15%;
+}
